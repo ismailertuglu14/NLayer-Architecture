@@ -1,0 +1,17 @@
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.deps.json
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.dll
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.pdb
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.dll
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.AssemblyReference.cache
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfoInputs.cache
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfo.cs
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CoreCompileInputs.cache
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CopyComplete
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.dll
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/refint/NLayer.Repository.dll
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.pdb
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/ref/NLayer.Repository.dll
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.runtimeconfig.json
+/Users/ismail/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.genruntimeconfig.cache
